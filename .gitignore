@@ -1,0 +1,6 @@
+node_modules
+*.pkg
+*.tar.xz
+*.bak
+*.zip
+*.rar
