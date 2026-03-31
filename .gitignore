@@ -1,6 +1,5 @@
 node_modules
+*.bak
 *.pkg
 *.tar.xz
-*.bak
-*.zip
-*.rar
+token.json
